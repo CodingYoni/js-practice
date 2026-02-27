@@ -12,3 +12,11 @@
 - Variables and conditionals
 - Functions with parameters
 - Objects and accessing properties
+
+# Day 5 – Arrays of Objects
+
+- Created arrays of objects
+- Used forEach to loop through objects
+- Used filter to select specific objects
+- Used map to extract properties
+- Created reusable functions with arrays
