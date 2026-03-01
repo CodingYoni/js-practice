@@ -34,3 +34,14 @@ Concepts practiced:
 - Finding largest number in array
 - Building new arrays using push()
 
+# Day 7 — Object Processing
+
+Learned how to process arrays of objects using for loops and conditionals.
+
+Concepts practiced:
+- Looping through arrays of objects
+- Finding a specific user by property
+- Finding the oldest user using comparison pattern
+- Building new arrays with push()
+- Filtering objects based on conditions
+- Extracting specific properties from objects
