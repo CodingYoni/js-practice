@@ -45,3 +45,16 @@ Concepts practiced:
 - Building new arrays with push()
 - Filtering objects based on conditions
 - Extracting specific properties from objects
+
+
+ Day 8 — Functions with Arrays of Objects
+
+Learned how to structure reusable functions for backend logic with arrays of objects.
+
+Concepts practiced:
+- Writing functions that process arrays
+- Returning values from functions
+- Looping inside functions
+- Returning single objects vs arrays
+- Returning specific properties
+- Combining filtering, searching, and comparison patterns inside functions
