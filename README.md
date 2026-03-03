@@ -47,7 +47,7 @@ Concepts practiced:
 - Extracting specific properties from objects
 
 
- Day 8 — Functions with Arrays of Objects
+# Day 8 — Functions with Arrays of Objects
 
 Learned how to structure reusable functions for backend logic with arrays of objects.
 
