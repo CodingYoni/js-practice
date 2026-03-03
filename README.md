@@ -58,3 +58,20 @@ Concepts practiced:
 - Returning single objects vs arrays
 - Returning specific properties
 - Combining filtering, searching, and comparison patterns inside functions
+
+# Day 9 – Reduce Exercises & Backend Patterns
+
+- how to use reduce() keyword
+
+
+
+
+# Day 10 – JSON Fundamentals
+
+What I Practiced
+
+- JSON.parse() → converting JSON string to object
+- JSON.stringify() → converting object to JSON string
+- Accessing nested JSON data
+- Working with arrays inside JSON
+- Backend-style condition checking
