@@ -75,3 +75,14 @@ What I Practiced
 - Accessing nested JSON data
 - Working with arrays inside JSON
 - Backend-style condition checking
+
+
+# Day 11 – Array Method Practice
+
+Today I practiced combining JavaScript array methods to process and transform data more efficiently.
+
+- map() – transforming data
+- filter() – selecting specific elements
+- reduce() – aggregating values
+- Method chaining
+- Working with arrays of objects
