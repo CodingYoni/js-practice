@@ -86,3 +86,13 @@ Today I practiced combining JavaScript array methods to process and transform da
 - reduce() – aggregating values
 - Method chaining
 - Working with arrays of objects
+
+# Day 12 – Dynamic Object Keys & Grouping
+
+Today I practiced turning arrays into objects with dynamic keys, which is a fundamental backend pattern.
+
+
+- Dynamic object keys: object[key] = value
+- Converting arrays of objects into lookup objects
+- Grouping arrays by a property
+- Loops with objects
