@@ -96,3 +96,12 @@ Today I practiced turning arrays into objects with dynamic keys, which is a fund
 - Converting arrays of objects into lookup objects
 - Grouping arrays by a property
 - Loops with objects
+
+# Day 13 – Nested Objects & Arrays
+
+Today I practiced working with nested data structures in JavaScript.
+
+- Accessing nested objects
+- Accessing arrays inside objects
+- Nested loops
+- Processing structured data
