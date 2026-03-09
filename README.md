@@ -137,5 +137,16 @@ Today I practiced arrow functions and callback functions in JavaScript.
 - Using callbacks with arrays
 - Recreating the behavior of the map() method
 
+// method chaining with numbers
+let numbers = [1,2,3,4,5,6];
+
+# Day 17 – Method Chaining
+
+Today I practiced method chaining in JavaScript.
+
+- Chaining array methods
+- Using filter() and map() together
+- Transforming data in multiple steps
+- Creating data processing pipelines
 
 
