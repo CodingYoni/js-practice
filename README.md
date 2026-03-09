@@ -105,3 +105,14 @@ Today I practiced working with nested data structures in JavaScript.
 - Accessing arrays inside objects
 - Nested loops
 - Processing structured data
+
+# Day 14 – Destructuring
+
+Today I practiced destructuring in JavaScript, which allows extracting values from objects and arrays more cleanly.
+
+
+- Object destructuring
+- Array destructuring
+- Using destructuring inside loops
+- Renaming variables during destructuring
+
