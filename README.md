@@ -126,3 +126,16 @@ Today I practiced the spread and rest operators in JavaScript.
 - Copying objects
 - Rest operator in functions
 
+# Day 16 – Arrow Functions & Callbacks
+
+Today I practiced arrow functions and callback functions in JavaScript.
+
+## Topics Covered
+
+- Arrow functions
+- Callbacks
+- Using callbacks with arrays
+- Recreating the behavior of the map() method
+
+
+
