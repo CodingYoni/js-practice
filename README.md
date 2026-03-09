@@ -116,3 +116,13 @@ Today I practiced destructuring in JavaScript, which allows extracting values fr
 - Using destructuring inside loops
 - Renaming variables during destructuring
 
+# Day 15 – Spread & Rest Operators
+
+Today I practiced the spread and rest operators in JavaScript.
+
+- Spread operator for arrays
+- Spread operator for objects
+- Merging arrays
+- Copying objects
+- Rest operator in functions
+
